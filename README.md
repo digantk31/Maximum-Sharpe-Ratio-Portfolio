@@ -33,4 +33,4 @@ To use the code in this repository, follow these steps:
 
 ## LinkedIn Post
 
-For a detailed explanation of the Maximum Sharpe Ratio Portfolio and its significance, check out my LinkedIn post: [LinkedIn Post](https://www.linkedin.com/in/digantkathiriya/)
+For a detailed explanation of the Maximum Sharpe Ratio Portfolio and its significance, check out my LinkedIn post: [LinkedIn Post](https://www.linkedin.com/posts/digantkathiriya_maximum-sharpe-ratio-portfolio-activity-7240516213116653568-5mHv?utm_source=share&utm_medium=member_desktop)
